@@ -1,4 +1,1 @@
-rest-client:
-  end-points:
-    GET-CITIZEN-BY-ID:
-      end-point: http://CITIZEN-SERVICE/CoWIN/get/
+restPoint-url: http://CITIZEN-SERVICE/CoWIN/get/
